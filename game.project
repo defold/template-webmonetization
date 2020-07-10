@@ -11,3 +11,6 @@ shared_state = 1
 [webmonetization]
 payment_pointer = YOUR_PAYMENT_POINTER
 
+[project]
+dependencies = https://github.com/defold/extension-webmonetization/archive/master.zip
+
