@@ -6,3 +6,5 @@ Add your payment pointer to [game.project](defold://open?path=/game.project) in 
 
 # Learn more
 Visit the [official Defold manual on Web Monetization](https://defold.com/manuals/web-monetization) to learn more about Web Monetization and how to use it in your Defold web games.
+
+Visit the [official Defold manual on HTML5 games](https://defold.com/manuals/html5/) to learn more about how to create web games using Defold.
